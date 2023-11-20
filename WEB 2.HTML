@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Restaurant Web App</title>
+    <script>
+        function loadRandomCategory() {
+            // Array of potential category short_names
+            const categories = ['Lunch', 'Dinner', 'Sushi', 'Drinks', 'Desserts']; // Modify this array as per your categories
+
+            // Generate a random index to select a category from the array
+            const randomIndex = Math.floor(Math.random() * categories.length);
+
+            // Get the randomly selected category short_name
+            const randomCategoryShortName = categories[randomIndex];
+
+            // Call the function to load menu items with the random category short_name
+            // This line simulates the function call that loads the menu items for the selected category
+            console.log(`Loading menu items for: ${randomCategoryShortName}`);
+            // For actual use, replace the console.log with your functionality: $dc.loadMenuItems(randomCategoryShortName);
+        }
+    </script>
+</head>
+<body>
+    <a href="#" onclick="loadRandomCategory();">Specials</a>
+</body>
+</html>
