@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Names Greeting</title>
+</head>
+<body>
+    <!-- The browser console will display the output -->
+    <script>
+        // Array of names
+        const names = ['John', 'Jane', 'Alex', 'Emily', 'Jack'];
+
+        // Looping over the array of names
+        names.forEach(name => {
+            if (name.charAt(0).toLowerCase() === 'j') {
+                console.log(`Goodbye ${name}`);
+            } else {
+                console.log(`Hello ${name}`);
+            }
+        });
+    </script>
+</body>
+</html>
