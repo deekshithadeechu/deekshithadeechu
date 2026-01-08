@@ -20,7 +20,7 @@ Aspiring Salesforce Admin & Developer | Flows | Apex | Data Modeling | Trailhead
 ## 🛠 Language & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=salesforcepython,java,html,css,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=salesforce,python,java,html,css,mysql,git,github,vscode" />
 </p>
 
 ## 🔥 My Stats
