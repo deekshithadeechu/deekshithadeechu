@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Aspiring Salesforce Admin & Developer | Flows | Apex | Data Modeling | Trailhead Superbadge |Trailhead Ranger | Open to Opportunities
+Aspiring Salesforce Admin & Developer | Flows | Apex | Java | python | Data Modeling | Trailhead Superbadge |Trailhead Ranger | Open to Opportunities
 
 ## 🛠 Language & Tools
 
