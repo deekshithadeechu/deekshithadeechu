@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">hey there 👋 i'm  deekshitha gelli</h1>
 
-<!--
-**deekshithadeechu/deekshithadeechu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/deekshithadeechu" width="160" style="border-radius:50%;" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/gellisaideekshitha">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:deekshitha.gelli@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1F2937?style=for-the-badge&logo=gmail&logoColor=red">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+Aspiring Salesforce Admin & Developer | Flows | Apex | Data Modeling | Trailhead Superbadge |Trailhead Ranger | Open to Opportunities
+
+## 🛠 Language & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=salesforcepython,java,html,css,js,mysql,git,github,vscode" />
+</p>
+
+## 🔥 My Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deekshithadeechu&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deekshithadeechu&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=deekshithadeechu&theme=tokyonight)
+
+## 📫 Connect with Me
+
+- 📍 Hyderabad, India  
+- 💼 LinkedIn: https://www.linkedin.com/in/gellisaideekshitha
+- 📧 Email: deekshitha.gelli@gmail.com 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deekshithadeechu&style=flat-square&color=0A66C2" />
+</p>
