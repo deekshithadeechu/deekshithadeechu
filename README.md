@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋 i'm  deekshitha gelli</h1>
+<h1 align="center">Hey there 👋 i'm  Sai Deekshitha gelli</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/deekshithadeechu" width="160" style="border-radius:50%;" />
